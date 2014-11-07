@@ -1,6 +1,6 @@
 # A dynamic website for test purpose
 
-集多种杀人武器于一身的终极武器：“要你命3000”！
+集多种杀人武器于一身的终极武器：“要你命3000”！--
 
 用torando搭建的一个web应用，模拟某些规则的url，可以用于cdn、waf系统的测试用途。
 

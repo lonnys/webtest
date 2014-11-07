@@ -81,3 +81,5 @@ python版本这个高并发下可能性能较弱，增加了一个nginx-lua版�
 
     curl -v 'localhost:9527/redirect/301?url=file:///etc/passwd'
     curl -v 'localhost:9527/redirect/302?url=http://www.jiasule.com'
+## 你是周星星么？
+	不是

@@ -99,7 +99,7 @@ class SlowHandler(MyHandler):
 
 		yield gen.Task(tornado.ioloop.IOLoop.instance().add_timeout, time.time() + s)
 
-		self.write("End at: %s<br/>" % datetime.datetime.now() )
+		self.write("End at: %s<br/>" % datetime.datetime.now())
 		self.finish()
 
 
